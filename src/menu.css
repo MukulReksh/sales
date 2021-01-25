@@ -1,0 +1,9 @@
+.main-menu {
+  background-color: rgb(244, 249, 253);
+  padding: 10px;
+  height: 750px;
+}
+.main-menu-logo {
+  margin-bottom: 60px;
+  padding: 10px;
+}
